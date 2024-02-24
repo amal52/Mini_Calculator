@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="teal">#FF009688</color>
+    <color name="teal_light">#FF52DFD9</color> <!-- Lighter shade of teal -->
+    <color name="teal_dark">#FF00665C</color> <!-- Darker shade of teal -->
+    <color name="gray">#FF808080</color> <!-- Neutral gray -->
+    <color name="blue">#FF2196F3</color> <!-- Blue -->
+    <color name="green">#FF4CAF50</color> <!-- Green -->
+    <color name="purple">#FF673AB7</color> <!-- Purple -->
+    <color name="pink">#FFF06292</color> <!-- Pink -->
+    <color name="orange">#FFFF9800</color> <!-- Orange -->
+    <color name="red">#FFFF5252</color> <!-- Red -->
+    <color name="yellow">#FFFFEB3B</color> <!-- Yellow -->
+
 </resources>
