@@ -23,8 +23,8 @@ class MainActivity : AppCompatActivity() {
         val btn5 = findViewById<Button>(R.id.btn5)
         val result: TextView = findViewById(R.id.ans)
 
-        val operationButtons = listOf(btn1, btn2, btn3, btn4)
 
+        val operationButtons = listOf(btn1, btn2, btn3, btn4)
         operationButtons.forEach { button ->
             button.setOnClickListener {
                 operation = when (button.id) {
